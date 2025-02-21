@@ -41,7 +41,7 @@ It's the world's first open community challenge with real-user evaluations. You 
 | 🤗 [Chai Huggingface](https://huggingface.co/ChaiML) | Tons of models / datasets for you to finetune on! Including past winner solutions                                                           |
 | 📒 [Fine tuning guide](https://huggingface.co/docs/transformers/training) | Guide on language model finetuning                                                           |
 | 💾 [Datasets](https://dataset-ideas.tiiny.site/) | Curated list of open-sourced datasets to get started with finetuning                                                  |
-| 💖 [Chaiverse Discord](https://discord.gg/chai-llm)                   | Our Chaiverse Competition discord                                                          |
+| 💖 [Chaiverse Discord](https://discord.com/invite/v6dQNmnevt)                   | Our Chaiverse Competition discord                                                          |
 |🚀 [Deepspeed Guide](https://huggingface.co/docs/transformers/main_classes/deepspeed)     | Guide for training with Deepspeed (faster training without GPU bottleneck)    |
 |💬 [Example Conversations](https://huggingface.co/datasets/ChaiML/100_example_conversations)     | Here you can find 100 example conversations from the Chai Platform     |
 | ⚒️ [Build with us](https://www.chai-research.com/#careers)| If you think what we are building is cool, join us!|
