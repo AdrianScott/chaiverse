@@ -14,7 +14,7 @@
 It's the world's first open community challenge with real-user evaluations. You models will be directly deployed on the [Chai App](http://tosto.re/chaiapp) where our over 500K daily active users will be providing live feedback. Get to top of the leaderboard and share the $1 million cash prize!
 
 ## 🚀 Quick Start with Colab
-1. Join the [Chaiverse Discord](https://discord.gg/chai-llm), our bot will greet you and give you a developer key 🥳
+1. Join the [Chaiverse Discord](https://discord.com/invite/v6dQNmnevt), our bot will greet you and give you a developer key 🥳
 2. Submit a model in < 10 minutes with [Chaiverse Jupyter Notebook Quickstart](https://colab.research.google.com/drive/1FyCamT6icUo5Wlt6qqogHbyREHQQkAY8?usp=sharing)
 3. Run through our [Chaiverse Prompt Engineering Guide](https://colab.research.google.com/drive/1eMRidYrys3b1mPrhUOJnfAB3Z7tcCNn0?usp=sharing) to submit models with custom prompts
 4. Run through our [Chaiverse: Reward Model Guide](https://drive.google.com/file/d/15lWzRoP0RZ7jVxhas_zQaG2OyvqxaxhT/view?usp=sharing) to submit reward models! ❤️
